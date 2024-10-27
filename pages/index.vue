@@ -3,7 +3,8 @@ const {user} = useOidcAuth();
 </script>
 
 <template>
-  <div>User: {{ user }}</div>
+  <div>User: </div>
+  <pre>{{ user }}</pre>
 </template>
 
 <style scoped>

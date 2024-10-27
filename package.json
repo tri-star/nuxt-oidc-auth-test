@@ -11,8 +11,9 @@
   },
   "dependencies": {
     "nuxt": "^3.13.2",
-    "vue": "latest",
+    "nuxt-oidc-auth": "^0.18.0",
     "vite": "5.3",
+    "vue": "latest",
     "vue-router": "latest"
   },
   "resolutions": {
